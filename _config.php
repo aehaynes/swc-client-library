@@ -1,7 +1,7 @@
 <?php
 
-define('SWC_USERNAME', 'Responsible');
-define('SWC_PASSWORD', 'sealssuite');
+define('SWC_USERNAME', '');
+define('SWC_PASSWORD', '');
 define('LIVE_OUTPUT_ENABLED', true);
 
 define('SLEEP_MILLISECONDS', 750);
